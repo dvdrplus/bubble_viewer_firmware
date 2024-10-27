@@ -1,0 +1,73 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# Environment variable files
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Log files
+*.log
+
+# Cache files
+*.cache/
+*.pyo
+*.pyd
+
+# Distribution files
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# PyInstaller artifacts
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+*.cover
+*.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.coveragerc
+
+# pyright or mypy type checking
+.mypy_cache/
+.pyre/
+type_cov/
+typings/
+
+# Django/Flask environment files
+instance/
+.db
+*.sqlite3
+
+# VSCode configuration
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Backup files
+*.bak
+*~
+
+# IDE files (for JetBrains, etc.)
+.idea/
+*.iml
+*.ipr
+*.iws
